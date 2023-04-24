@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">💻 MacBook Pro 16' 2021 (2022)<br>🎧 AirPods Pro (2019)<br>🖥 2xDell 27 (2020)<br>🖱️ MX Master 3</p>
+<p align="left">💻 MacBook Pro 16' 2021 (2022)<br>🎧 AirPods Pro (2019)<br>🖥 2xDell 27 (2020)<br>🖱️ MX Master 3 (2021)</p>
 
 ###
